@@ -1,0 +1,9 @@
+.fejlec{
+    background-image: url("/public/2vh2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 25vh;
+    display: flex;
+}
+
+
