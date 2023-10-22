@@ -68,3 +68,16 @@
 	max-height: fit-content;
 	transition: all 0.5s cubic-bezier(0, 1, 0, 1);
 }
+
+.contentinfo {
+	font-size: 1.3rem;
+	font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+	color: #ffd60a;
+	width: 80%;
+	justify-content: justify;
+	margin: auto;
+}
+
+.leiras {
+	color: white;
+}

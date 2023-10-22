@@ -34,7 +34,7 @@ function Tananyag() {
 							<h1>{kivalsz === i ? "-" : "+"}</h1>
 						</div>
 						<div className={kivalsz === i ? "elrejt.mutat" : "elrejt"}>
-							<p>{data.content}</p>
+							<p className="contentinfo">{data.content}</p>
 							{data.countries &&
 								data.countries.map((country, i) => {
 									return (
@@ -46,7 +46,7 @@ function Tananyag() {
 											<div
 												className={orKI === i ? "orElrejt.mutat" : "orElrejt"}
 											>
-												<p>{country.information}</p>
+												<p className="leiras">{country.information}</p>
 											</div>
 										</div>
 									);
