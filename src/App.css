@@ -1,9 +1,11 @@
-.fejlec{
-    background-image: url("/public/2vh2.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 25vh;
-    display: flex;
+.fejlec {
+	background-image: url("/public/2vh2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 25vh;
+	display: flex;
 }
 
-
+body {
+	background-color: #000814;
+}

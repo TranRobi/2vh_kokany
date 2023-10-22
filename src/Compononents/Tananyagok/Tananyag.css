@@ -1,0 +1,70 @@
+/* !
+ ? Fekete: 000814
+ ? Sötétkék: 001d3d
+ ? vilkék: #003566
+ ? Sárga: #ffc300
+ ? citrom: #ffd60a
+! */
+
+.Tananyag {
+	width: 80%;
+	height: fit-content;
+	margin: 20px auto 20px;
+	background: rgba(0, 53, 102, 0.8);
+	border-radius: 20px;
+	padding: 20px;
+}
+
+.kartyaCim {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	cursor: pointer;
+}
+.kartyaCim h1 {
+	text-align: center;
+	color: white;
+	text-decoration: underline;
+}
+
+.elrejt {
+	max-height: 0;
+	overflow: hidden;
+	transition: all 0.5s cubic-bezier(0, 1, 0, 1);
+}
+.elrejt.mutat {
+	height: auto;
+	max-height: fit-content;
+	transition: all 0.5s cubic-bezier(1, 0, 1, 0);
+}
+
+.orszagTitle {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.orszag {
+	width: 80%;
+	margin: 10px auto 20px;
+	background-color: rgba(0, 8, 20, 0.5);
+	height: fit-content;
+	padding: 20px;
+	border-radius: 20px;
+}
+
+.orszag h3 {
+	font-size: 1.5rem;
+	color: #ffc300;
+	text-decoration: wavy;
+}
+
+.orElrejt {
+	max-height: 0;
+	overflow: hidden;
+	transition: all 0.5s cubic-bezier(0, 1, 0, 1);
+}
+.orElrejt.mutat {
+	height: auto;
+	max-height: fit-content;
+	transition: all 0.5s cubic-bezier(0, 1, 0, 1);
+}

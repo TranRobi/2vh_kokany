@@ -1,0 +1,65 @@
+[
+	{
+		"id": 1,
+		"name": "Tengely hatalmak",
+		"content": "",
+		"countries": [
+			{
+				"cname": "németország",
+				"information": "agiangoamoganopgmoad"
+			},
+			{
+				"cname": "Magyarország",
+				"information": "ngiangopranagispgnaiohnopr"
+			},
+			{
+				"cname": "Japán",
+				"information": "dangibguaorhbuiajpgbajgbruijb"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "Szövetségesek",
+		"content": "",
+		"countries": [
+			{
+				"cname": "Amerika",
+				"information": ""
+			},
+			{
+				"cname": "Angila",
+				"information": ""
+			},
+			{
+				"cname": "Szovjetúnió",
+				"information": ""
+			}
+		]
+	},
+	{
+		"id": 3,
+		"name": "Zsidóság",
+		"content": "gingobgionfIOGBIOnfi"
+	},
+	{
+		"id": 4,
+		"name": "Szovjenúnió megtámadása",
+		"content": "gingobgionfIOGBIOnfi"
+	},
+	{
+		"id": 5,
+		"name": "Lengyelország megtámadása",
+		"content": "gingobgionfIOGBIOnfi"
+	},
+	{
+		"id": 6,
+		"name": "Angliai bombázás",
+		"content": "gingobgionfIOGBIOnfi"
+	},
+	{
+		"id": 7,
+		"name": "A háború vége",
+		"content": "gingobgionfIOGBIOnfi"
+	}
+]
