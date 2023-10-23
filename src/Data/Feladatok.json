@@ -1,0 +1,134 @@
+[
+	{
+		"id": 1,
+		"kerdes": "Melyik évben kezdődött a 2. Világháború?",
+		"valaszok": [
+			{
+				"valasz": "A) 1939",
+				"helyesE": true
+			},
+			{
+				"valasz": "B) 1941",
+				"helyesE": false
+			},
+			{
+				"valasz": "C) 1943",
+				"helyesE": false
+			},
+			{
+				"valasz": "D) 1945",
+				"helyesE": false
+			}
+		]
+	},
+	{
+		"id": 2,
+		"kerdes": "Melyik ország volt az első, amelyet Németország megtámadott a 2. Világháborúban?",
+		"valaszok": [
+			{
+				"valasz": "A) Lengyelország",
+				"helyesE": true
+			},
+			{
+				"valasz": "B) Franciaország",
+				"helyesE": false
+			},
+			{
+				"valasz": "C) Szovjetunió",
+				"helyesE": false
+			},
+			{
+				"valasz": "D) Egyesült Királyság",
+				"helyesE": false
+			}
+		]
+	},
+	{
+		"id": 3,
+		"kerdes": "Melyik csata volt a legnagyobb és legvéresebb a 2. Világháborúban?",
+		"valaszok": [
+			{
+				"valasz": "A) Stalingrádi csata",
+				"helyesE": true
+			},
+			{
+				"valasz": "B) Normandiai partraszállás",
+				"helyesE": false
+			},
+			{
+				"valasz": "C) El-Alameini csata",
+				"helyesE": false
+			},
+			{
+				"valasz": "D) Midway-i csata",
+				"helyesE": false
+			}
+		]
+	},
+	{
+		"id": 4,
+		"kerdes": "Melyik évben történt a D-Day, azaz a normandiai partraszállás?",
+		"valaszok": [
+			{
+				"valasz": "A) 1942",
+				"helyesE": false
+			},
+			{
+				"valasz": "B) 1943",
+				"helyesE": false
+			},
+			{
+				"valasz": "C) 1944",
+				"helyesE": true
+			},
+			{
+				"valasz": "D) 1945",
+				"helyesE": false
+			}
+		]
+	},
+	{
+		"id": 5,
+		"kerdes": "Ki volt Németország miniszterelnöke a 2. világháborúban",
+		"valaszok": [
+			{
+				"valasz": "A) Winston Churchill",
+				"helyesE": false
+			},
+			{
+				"valasz": "B) Josef Stalin",
+				"helyesE": false
+			},
+			{
+				"valasz": "C) Franklin D. Roosevelt",
+				"helyesE": false
+			},
+			{
+				"valasz": "D) Hitler",
+				"helyesE": true
+			}
+		]
+	},
+	{
+		"id": 6,
+		"kerdes": "Kik között jött létre a molotov ribbentrop paktum?",
+		"valaszok": [
+			{
+				"valasz": "A) Franciaország és Anglua között",
+				"helyesE": false
+			},
+			{
+				"valasz": "B) Németország és Szovjetúnió között",
+				"helyesE": true
+			},
+			{
+				"valasz": "C) USA és a Szovjetúnió között",
+				"helyesE": false
+			},
+			{
+				"valasz": "D) Németország és Japán között",
+				"helyesE": false
+			}
+		]
+	}
+]

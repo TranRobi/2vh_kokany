@@ -27,6 +27,24 @@
 	text-decoration: underline;
 }
 
+.linkek {
+	text-align: center;
+	display: flex;
+	justify-content: space-between;
+	width: 80%;
+	margin: auto;
+	padding: 10px;
+}
+
+a {
+	color: white;
+	font-size: 1.5rem;
+	text-decoration: none;
+}
+a:hover {
+	color: #ffc300;
+}
+
 .elrejt {
 	max-height: 0;
 	overflow: hidden;
