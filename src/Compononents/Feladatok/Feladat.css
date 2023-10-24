@@ -1,3 +1,51 @@
-h1 {
-	color: white;
+/* !
+ ? Fekete: 000814
+ ? Sötétkék: 001d3d
+ ? vilkék: #003566
+ ? Sárga: #ffc300
+ ? citrom: #ffd60a
+! */
+
+.feladatok {
+	width: 80%;
+	height: fit-content;
+	padding: 10px;
+	background-color: #ffd60a;
+	margin: 25px auto;
+	border-radius: 30px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.feladatok h1 {
+	text-align: center;
+	color: #001d3d;
+}
+
+.feladatok h2 {
+	color: #001d3d;
+	text-align: center;
+}
+.valaszok {
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	padding: 10px;
+}
+.valaszok button {
+	cursor: pointer;
+	width: 250px;
+	height: 50px;
+	border-radius: 30px;
+	font-size: 1.2rem;
+}
+
+.valasz.helyes {
+	background-color: green;
+}
+.valasz.helytelen {
+	background-color: red;
 }
